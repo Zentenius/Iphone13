@@ -4,7 +4,7 @@ export default function Navbar() {
         <div className="navbar absolute z-10">
   <div className="navbar-start">
       <label tabIndex={0} className="btn btn-ghost btn-circle">
-        <img src="https://cdn.discordapp.com/attachments/937139620368511029/1055648902935756821/mksqg4V2ooIAAAAASUVORK5CYII.png"  className="h-10 w-12" alt="icon"></img>
+        <img src="https://cdn.discordapp.com/attachments/937139620368511029/1055649674557665290/image_2022-12-22_195047042-removebg-preview_1.png"  className="h-10 w-12" alt="icon"></img>
       </label>
   </div>
   <div className="navbar-center">
