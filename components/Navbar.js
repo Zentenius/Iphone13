@@ -1,7 +1,7 @@
 export default function Navbar() {
 
     return(
-        <div className="navbar absolute z-10 border-b">
+        <div className="navbar absolute z-10">
   <div className="navbar-start">
       <label tabIndex={0} className="btn btn-ghost btn-circle">
         <img src="https://cdn.discordapp.com/attachments/937139620368511029/1055648902935756821/mksqg4V2ooIAAAAASUVORK5CYII.png"  className="h-10 w-12" alt="icon"></img>
