@@ -1,10 +1,10 @@
 export default function Navbar() {
 
     return(
-        <div className="navbar absolute z-10 border-b-1">
+        <div className="navbar absolute z-10 border-b">
   <div className="navbar-start">
       <label tabIndex={0} className="btn btn-ghost btn-circle">
-        <img src="https://o.remove.bg/downloads/0329414f-edcc-4bb2-92e9-072291b3f75c/image_2022-12-21_201628790-removebg-preview.png"  className="h-10 w-12" alt="icon"></img>
+        <img src="https://cdn.discordapp.com/attachments/937139620368511029/1055648902935756821/mksqg4V2ooIAAAAASUVORK5CYII.png"  className="h-10 w-12" alt="icon"></img>
       </label>
   </div>
   <div className="navbar-center">
